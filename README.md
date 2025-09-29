@@ -6,7 +6,7 @@ Student KMUTT
 
 I am a motivated IT student with a keen interest in frontend development and creating interactive, user-friendly web interfaces. I enjoy transforming design concepts into responsive websites, focusing on clean, reusable code and smooth user experiences.
 
-My academic background and personal projects have allowed me to gain experience with HTML5, CSS3, and JavaScript, along with exploring frontend frameworks like Vue.js/React. I am also curious about web performance optimization, accessibility, and modern UI/UX trends that enhance digital products.
+My academic background and personal projects have allowed me to gain experience with HTML5, CSS3, and JavaScript, along with exploring frontend frameworks like Vue.js I am also curious about web performance optimization, accessibility, and modern UI/UX trends that enhance digital products.
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [ochimi5747@gmail.com](mailto:ochimi5747@gmail.com)
