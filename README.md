@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Naruedom Srirukkaew
 ============================================================================================================================================
 
-Student KMUTT
+3rd Year Student of Information Technology, King Mongkut’s University of Technology Thonburi (KMUTT).
 -------------
 
 I am a motivated IT student with a keen interest in frontend development and creating interactive, user-friendly web interfaces. I enjoy transforming design concepts into responsive websites, focusing on clean, reusable code and smooth user experiences.
