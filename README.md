@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 3rd Year Student of Information Technology, King Mongkut’s University of Technology Thonburi (KMUTT).
 -------------
 
-I am a motivated IT student with a keen interest in frontend development and creating interactive, user-friendly web interfaces. I enjoy transforming design concepts into responsive websites, focusing on clean, reusable code and smooth user experiences.
+I am a motivated IT student with a keen interest in frontend / web development and creating interactive, user-friendly web interfaces. I enjoy transforming design concepts into responsive websites, focusing on clean, reusable code and smooth user experiences.
 
 My academic background and personal projects have allowed me to gain experience with HTML5, CSS3, and JavaScript, along with exploring frontend frameworks like Vue.js I am also curious about web performance optimization, accessibility, and modern UI/UX trends that enhance digital products.
 
